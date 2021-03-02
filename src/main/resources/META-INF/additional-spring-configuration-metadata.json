@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "password",
+      "type": "java.lang.String",
+      "description": "Description for password."
+    },
+    {
+      "name": "driverClass",
+      "type": "java.lang.String",
+      "description": "Description for driverClass."
+    }
+  ]
+}
